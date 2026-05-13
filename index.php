@@ -21,7 +21,7 @@ if($aluno["freq"]<75){
         }
     }
     else{
-        echo "Aprovado";
+        echo "Aprovaado";
     }
 }
 
